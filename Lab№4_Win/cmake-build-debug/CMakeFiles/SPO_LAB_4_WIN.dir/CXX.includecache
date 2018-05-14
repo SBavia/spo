@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Maurice/Desktop/SPO_WIN-master/SPO_LAB_4_WIN/main.cpp
+iostream
+-
+list
+-
+windows.h
+-
+stdlib.h
+-
+
