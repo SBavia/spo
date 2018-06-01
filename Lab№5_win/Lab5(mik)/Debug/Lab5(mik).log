@@ -1,0 +1,7 @@
+﻿  Lab5(mik).cpp
+c:\users\maurice\source\repos\lab5(mik)\lab5(mik)\lab5(mik).cpp(41): warning C4244: инициализация: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+c:\users\maurice\source\repos\lab5(mik)\lab5(mik)\lab5(mik).cpp(56): warning C4101: hFile: неиспользованная локальная переменная
+c:\users\maurice\source\repos\lab5(mik)\lab5(mik)\lab5(mik).cpp(111): warning C4244: инициализация: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+c:\users\maurice\source\repos\lab5(mik)\lab5(mik)\lab5(mik).cpp(125): warning C4101: hFile: неиспользованная локальная переменная
+c:\users\maurice\source\repos\lab5(mik)\lab5(mik)\lab5(mik).cpp(138): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab5(mik).vcxproj -> c:\users\maurice\source\repos\Lab5(mik)\Debug\Lab5(mik).exe
